@@ -1,0 +1,21 @@
+# Human Computer Interaction (2020/2021)
+
+Material for the Human Computer Interaction (HCI) course for the Master Degree in Computer Engineering at Politecnico di Torino.
+
+## Course information
+
+Detailed information about the course is available in the dedicated web pages.
+
+| Resource | Link |
+|---------|---|--------|
+| Course website | <http://bit.ly/polito-hci> |
+| YouTube playlist | [:arrow_forward:](https://www.youtube.com/playlist?list=PLs7DWGc_wmwQ7ipQNDCLOhoB2I9PpscpD)|
+| GitHub organization | <https://github.com/polito-hci-2020> |
+
+## Slides
+
+* [Introduction to the course](./slide/00-intro.pdf)
+* [Presentation of the project work](./slide/01-project.pdf)
+
+
+## Laboratories
