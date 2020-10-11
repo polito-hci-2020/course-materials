@@ -17,6 +17,8 @@ Detailed information about the course is available in the dedicated web pages.
 * [Introduction to the course](./slide/00-intro.pdf)
 * [Presentation of the project work](./slide/01-project.pdf)
 * [What is HCI?](./slide/02-whatisHCI.pdf)
+* [Needfinding](./slides/03-needfinding.pdf)
 
 
 ## Laboratories
+* [Lab 1 - Hall of (Sh\|F)ame](./labs/L01-hall-of-shame-fame.pdf)
