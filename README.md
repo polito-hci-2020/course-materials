@@ -18,7 +18,10 @@ Detailed information about the course is available in the dedicated web pages.
 * [Presentation of the project work](./slide/01-project.pdf)
 * [What is HCI?](./slide/02-whatisHCI.pdf)
 * [Needfinding](./slides/03-needfinding.pdf)
+* [Needfinding: exercise](./slides/03b-needfinding-esercise.pdf)
+* [Task Analysis](./slides/04-taskanalysis.pdf)
 
 
 ## Laboratories
 * [Lab 1 - Hall of (Sh\|F)ame](./labs/L01-hall-of-shame-fame.pdf)
+* [Lab 2 - Needfinding](./labs/L02-needfinding.pdf)
