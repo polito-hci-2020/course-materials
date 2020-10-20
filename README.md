@@ -20,6 +20,7 @@ Detailed information about the course is available in the dedicated web pages.
 * [Needfinding](./slides/03-needfinding.pdf)
 * [Needfinding: exercise](./slides/03b-needfinding-esercise.pdf)
 * [Task Analysis](./slides/04-taskanalysis.pdf)
+* [Prototyping](./slides/05-prototyping.pdf)
 
 
 ## Laboratories
