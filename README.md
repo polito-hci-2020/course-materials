@@ -21,8 +21,11 @@ Detailed information about the course is available in the dedicated web pages.
 * [Needfinding: exercise](./slides/03b-needfinding-esercise.pdf)
 * [Task Analysis](./slides/04-taskanalysis.pdf)
 * [Prototyping](./slides/05-prototyping.pdf)
+* [Guidelines](./slides/06-guidelines.pdf)
+* Visual Design
 
 
 ## Laboratories
 * [Lab 1 - Hall of (Sh\|F)ame](./labs/L01-hall-of-shame-fame.pdf)
 * [Lab 2 - Needfinding](./labs/L02-needfinding.pdf)
+* [Lab 3 - Storyboard and Paper Prototypes](./labs/L03-storyboards-paper-prototypes.pdf)
