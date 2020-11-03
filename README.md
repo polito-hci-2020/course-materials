@@ -17,12 +17,12 @@ Detailed information about the course is available in the dedicated web pages.
 * [Introduction to the course](./slide/00-intro.pdf)
 * [Presentation of the project work](./slide/01-project.pdf)
 * [What is HCI?](./slide/02-whatisHCI.pdf)
-* [Needfinding](./slides/03-needfinding.pdf)
-* [Needfinding: exercise](./slides/03b-needfinding-esercise.pdf)
-* [Task Analysis](./slides/04-taskanalysis.pdf)
-* [Prototyping](./slides/05-prototyping.pdf)
-* [Guidelines](./slides/06-guidelines.pdf)
-* Visual Design
+* [Needfinding](./slide/03-needfinding.pdf)
+* [Needfinding: exercise](./slide/03b-needfinding-esercise.pdf)
+* [Task Analysis](./slide/04-taskanalysis.pdf)
+* [Prototyping](./slide/05-prototyping.pdf)
+* [Guidelines](./slide/06-guidelines.pdf)
+* [Visual Design](./slide/07-visualdesign.pdf)
 
 
 ## Laboratories
