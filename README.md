@@ -17,8 +17,15 @@ Detailed information about the course is available in the dedicated web pages.
 * [Introduction to the course](./slide/00-intro.pdf)
 * [Presentation of the project work](./slide/01-project.pdf)
 * [What is HCI?](./slide/02-whatisHCI.pdf)
-* [Needfinding](./slides/03-needfinding.pdf)
+* [Needfinding](./slide/03-needfinding.pdf)
+* [Needfinding: exercise](./slide/03b-needfinding-esercise.pdf)
+* [Task Analysis](./slide/04-taskanalysis.pdf)
+* [Prototyping](./slide/05-prototyping.pdf)
+* [Guidelines](./slide/06-guidelines.pdf)
+* [Visual Design](./slide/07-visualdesign.pdf)
 
 
 ## Laboratories
 * [Lab 1 - Hall of (Sh\|F)ame](./labs/L01-hall-of-shame-fame.pdf)
+* [Lab 2 - Needfinding](./labs/L02-needfinding.pdf)
+* [Lab 3 - Storyboard and Paper Prototypes](./labs/L03-storyboards-paper-prototypes.pdf)
