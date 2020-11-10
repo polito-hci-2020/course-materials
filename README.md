@@ -23,6 +23,7 @@ Detailed information about the course is available in the dedicated web pages.
 * [Prototyping](./slide/05-prototyping.pdf)
 * [Guidelines](./slide/06-guidelines.pdf)
 * [Visual Design](./slide/07-visualdesign.pdf)
+* [Heuristic Evaluation](./slide/08-heuristic-evaluation.pdf)
 
 
 ## Laboratories
