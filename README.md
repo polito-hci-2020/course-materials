@@ -25,9 +25,11 @@ Detailed information about the course is available in the dedicated web pages.
 * [Visual Design](./slide/07-visualdesign.pdf)
 * [Heuristic Evaluation](./slide/08-heuristic-evaluation.pdf)
 * [Heuristic evaluation: exercise](./slide/08b-heuristics-exercise.pdf)
+* [Designing for Diversity](./slide/09-designing-diversity.pdf)
 
 
 ## Laboratories
 * [Lab 1 - Hall of (Sh\|F)ame](./labs/L01-hall-of-shame-fame.pdf)
 * [Lab 2 - Needfinding](./labs/L02-needfinding.pdf)
 * [Lab 3 - Storyboard and Paper Prototypes](./labs/L03-storyboards-paper-prototypes.pdf)
+* [Lab 4 - Wireframe](./labs/L04-wireframe.pdf)
