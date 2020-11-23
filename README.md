@@ -33,3 +33,4 @@ Detailed information about the course is available in the dedicated web pages.
 * [Lab 2 - Needfinding](./labs/L02-needfinding.pdf)
 * [Lab 3 - Storyboard and Paper Prototypes](./labs/L03-storyboards-paper-prototypes.pdf)
 * [Lab 4 - Wireframe](./labs/L04-wireframe.pdf)
+* [Lab 5 - Heuristic Evaluation](./labs/L05-heuristic-evaluation.pdf)
