@@ -26,6 +26,7 @@ Detailed information about the course is available in the dedicated web pages.
 * [Heuristic Evaluation](./slide/08-heuristic-evaluation.pdf)
 * [Heuristic evaluation: exercise](./slide/08b-heuristics-exercise.pdf)
 * [Designing for Diversity](./slide/09-designing-diversity.pdf)
+* [Multimodal Interaction](./slide/10-multimodal.pdf)
 
 
 ## Laboratories
