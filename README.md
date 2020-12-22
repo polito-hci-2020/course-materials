@@ -28,7 +28,8 @@ Detailed information about the course is available in the dedicated web pages.
 * [Designing for Diversity](./slide/09-designing-diversity.pdf)
 * [Multimodal Interaction](./slide/10-multimodal.pdf)
 * [Interacting with AI](.slide/11-human-ai-interaction.pdf)
-* [Usability Testing](./slide/12-usability-testing-pdf)
+* [Usability Testing](./slide/12-usability-testing.pdf)
+* [Controlled Experiments](./slide/13-user-study.pdf)
 
 
 ## Laboratories
@@ -37,3 +38,4 @@ Detailed information about the course is available in the dedicated web pages.
 * [Lab 3 - Storyboard and Paper Prototypes](./labs/L03-storyboards-paper-prototypes.pdf)
 * [Lab 4 - Wireframe](./labs/L04-wireframe.pdf)
 * [Lab 5 - Heuristic Evaluation](./labs/L05-heuristic-evaluation.pdf)
+* Lab 6 - Usability Testing
