@@ -24,12 +24,13 @@ Detailed information about the course is available in the dedicated web pages.
 * [Guidelines](./slide/06-guidelines.pdf)
 * [Visual Design](./slide/07-visualdesign.pdf)
 * [Heuristic Evaluation](./slide/08-heuristic-evaluation.pdf)
-* [Heuristic evaluation: exercise](./slide/08b-heuristics-exercise.pdf)
+* [Heuristic Evaluation: exercise](./slide/08b-heuristics-exercise.pdf)
 * [Designing for Diversity](./slide/09-designing-diversity.pdf)
 * [Multimodal Interaction](./slide/10-multimodal.pdf)
 * [Interacting with AI](.slide/11-human-ai-interaction.pdf)
 * [Usability Testing](./slide/12-usability-testing.pdf)
 * [Controlled Experiments](./slide/13-user-study.pdf)
+* [Chi-Square Test: exercise](./slide/14-chi-square-exercise.pdf)
 
 
 ## Laboratories
