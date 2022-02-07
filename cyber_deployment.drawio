@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2021-09-26T17:11:57.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="f_sR4tFiKy-B6bhVbsZR" version="15.3.3" type="github">
+  <diagram id="WpzvP2BGH9NBfCjEp-VH" name="Page-1">
+    <mxGraphModel dx="1022" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vQkK9jb8hd9YZY97j5Dm-1" value="SEwallet Client" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vQkK9jb8hd9YZY97j5Dm-3" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;GUI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQkK9jb8hd9YZY97j5Dm-4" value="SEwallet Server" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vQkK9jb8hd9YZY97j5Dm-5" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;SEwallet Backend Handler&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQkK9jb8hd9YZY97j5Dm-8" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0;exitY=0;exitDx=55;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=125;entryDy=230;entryPerimeter=0;" edge="1" parent="1" source="vQkK9jb8hd9YZY97j5Dm-1" target="vQkK9jb8hd9YZY97j5Dm-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="260" as="sourcePoint" />
+            <mxPoint x="380" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vQkK9jb8hd9YZY97j5Dm-10" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;SEwallet API&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="250" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQkK9jb8hd9YZY97j5Dm-12" value="Hardware Device SEcube SDK" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="450" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vQkK9jb8hd9YZY97j5Dm-13" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;SEcuve firmware&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="490" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQkK9jb8hd9YZY97j5Dm-14" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0;entryY=0;entryDx=0;entryDy=115;entryPerimeter=0;exitX=0;exitY=0;exitDx=200;exitDy=120;exitPerimeter=0;" edge="1" parent="1" source="vQkK9jb8hd9YZY97j5Dm-4" target="vQkK9jb8hd9YZY97j5Dm-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="350" as="sourcePoint" />
+            <mxPoint x="470" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vQkK9jb8hd9YZY97j5Dm-15" value="TCP+SSL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vQkK9jb8hd9YZY97j5Dm-16" value="USB interconnection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="360" width="105" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
